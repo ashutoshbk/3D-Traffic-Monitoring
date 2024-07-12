@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on developing a state-of-the-art traffic monitoring system using monocular 3D object recognition techniques. The system leverages deep learning algorithms to accurately detect and monitor various road users, such as vehicles and pedestrians, using a single camera. This approach aims to provide a cost-effective and efficient solution for traffic monitoring in urban environments.
 
-![Project Image](path/to/your/image.png)
+![Project Image](example.png)
 
 ## Project Details
 ### Objective
